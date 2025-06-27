@@ -75,7 +75,7 @@ This project uses a **custom U-Net** architecture with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LiverSegmentation-U-Net-TensorFlow.git
+git clone https://github.com/DJier/LiverSegmentation-U-Net-TensorFlow.git
 cd LiverSegmentation-U-Net-TensorFlow
 
 # Install dependencies
