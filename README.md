@@ -67,7 +67,7 @@ This project uses a **custom U-Net** architecture with:
 - 🧼 Clean mask loading with augmentation-ready generators
 - 🔍 Image-mask matching & integrity checking
 - 🧠 Custom loss functions including Dice Loss & Jaccard Loss
-- 🖼️ Real-time visualization of masks
+- 🖼️ Real-time visualization of the masks
 
 ---
 
